@@ -1,4 +1,4 @@
-hello
-=====
+Hello, world!
+=============
 
-Dummy project for practicing with Git and Github.
+
